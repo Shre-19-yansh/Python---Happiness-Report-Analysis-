@@ -14,7 +14,7 @@ ________________________________________
 
 •	happiness_report.csv – Contains data on happiness scores, rankings, and contributing factors for each country.
 
-•	case_study_solution.ipynb – Python notebook containing code, EDA, and visualizations.
+•	Case_Study_Solution.md – Python notebook containing code, EDA, and visualizations.
 
 ________________________________________
 ## 🎯 What We Did
