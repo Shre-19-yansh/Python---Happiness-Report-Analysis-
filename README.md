@@ -4,7 +4,7 @@
 
 The World Happiness Report is a global survey that measures the state of happiness across different countries. The happiness scores and rankings are based on individuals’ self-assessments of their life satisfaction, rated on a scale from 0 (worst possible life) to 10 (best possible life).
 
-In this Python Data Analytics Project, we aim to explore, analyze, and visualize the key factors that contribute to happiness across the globe. Using Python libraries such as pandas, numpy, and matplotlib, we investigate relationships between variables like GDP per capita, social support, healthy life expectancy, and freedom of choice to understand their impact on overall happiness.
+In this Project, we aim to explore, analyze, and visualize the key factors that contribute to happiness across the globe. Using Python libraries such as pandas, numpy, and matplotlib, we investigate relationships between variables like GDP per capita, social support, healthy life expectancy, and freedom of choice to understand their impact on overall happiness.
 
 This project involves data cleaning, exploratory data analysis (EDA), and data visualization to uncover patterns and insights that highlight what makes countries happier and how happiness levels vary around the world.
 ________________________________________
